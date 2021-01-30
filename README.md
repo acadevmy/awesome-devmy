@@ -31,7 +31,7 @@
 ### SOLID Principles
 #### Articles
 - [SOLID principles](https://hackernoon.com/solid-principles-530b2cc2badf) - What are the SOLID principles
-- [From STUPID to SOLID Code](https://hackernoon.com/solid-principles-530b2cc2badf) - Comparison between two ways to write code
+- [From STUPID to SOLID Code](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/) - Comparison between two ways to write code
 - [Dependency Inversion Principle](https://www.oodesign.com/dependency-inversion-principle.html) - What is DIP and why is important
 
 ### Design Patterns
